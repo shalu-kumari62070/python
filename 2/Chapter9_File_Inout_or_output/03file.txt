@@ -1,0 +1,4 @@
+python is easy
+it is case sensitive
+this is amazing
+
