@@ -1,0 +1,1 @@
+{self.x}, {self.y}, {self.z}
